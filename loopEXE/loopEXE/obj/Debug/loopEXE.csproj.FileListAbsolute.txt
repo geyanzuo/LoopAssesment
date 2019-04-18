@@ -1,0 +1,7 @@
+C:\Users\102146016\Desktop\loopEXE\loopEXE\bin\Debug\loopEXE.exe.config
+C:\Users\102146016\Desktop\loopEXE\loopEXE\bin\Debug\loopEXE.exe
+C:\Users\102146016\Desktop\loopEXE\loopEXE\bin\Debug\loopEXE.pdb
+C:\Users\102146016\Desktop\loopEXE\loopEXE\obj\Debug\loopEXE.csprojAssemblyReference.cache
+C:\Users\102146016\Desktop\loopEXE\loopEXE\obj\Debug\loopEXE.csproj.CoreCompileInputs.cache
+C:\Users\102146016\Desktop\loopEXE\loopEXE\obj\Debug\loopEXE.exe
+C:\Users\102146016\Desktop\loopEXE\loopEXE\obj\Debug\loopEXE.pdb
